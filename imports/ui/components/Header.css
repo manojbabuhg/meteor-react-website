@@ -1,0 +1,27 @@
+header {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  padding-top: 100px;
+}
+header h1 {
+  margin: 0px;
+  font-size: 4rem;
+  color: #fff;
+}
+header p {
+  font-weight: 700px;
+  font-size: 1.75rem;
+  color: #ccc;
+}
+header a {
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 0.25rem;
+  display: inline-block;
+  box-shadow: 0 4px 4px 0 black;
+  font-weight: 700px;
+  background-color: transparent;
+  border-color: lightblue;
+  color: white;
+}
